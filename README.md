@@ -22,7 +22,7 @@ to help you explore your sales data and uncover actionable insights.
   - Pick any numeric column (e.g., `Sales`, `Profit`, `Quantity`) for analysis.
   - Choose from **Sum**, **Mean**, **Max**, or **Min** aggregations.
 
-- **Dynamic Filtering**
+- **Dynamic Filtering** 
   - Filter by Region, Category, Segment, and Order Date range.
   - Multi-select filters with default “All” selection.
 

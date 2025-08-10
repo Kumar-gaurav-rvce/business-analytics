@@ -146,7 +146,6 @@ if uploaded_file:
         # Display descriptive statistics for the selected KPI
         st.subheader(f"{kpi} Summary Statistics")
         st.write(filtered_df[kpi].describe())
-
 else:
     # Message when no file is uploaded
     st.info("Please upload a CSV file to get started.")
